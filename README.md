@@ -31,6 +31,10 @@ flowchart TB
   product -.->|used by Dev-Centr app| other
 ```
 
+- **agent-rules**: forkable end-user rules (not this repo).
+- **devcentr-agent-rules** (here): product rules when Dev-Centr acts for the user.
+- **templates**: project templates; links to agent-rules for user-facing rules.
+
 ## Contents
 
 - `RULES.md` — rules text the **product** should load when driving automation for the user. End-user forks do not need this repo.
