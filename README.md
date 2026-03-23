@@ -37,7 +37,7 @@ flowchart TB
 
 ## Contents
 
-- `RULES.md` — rules text the **product** should load when driving automation for the user. End-user forks do not need this repo.
+- `RULES.md` — rules text the **product** should load when driving automation for the user. Features a **1-step assembly preamble** to ensure the agent resolves its context and absolute paths correctly from the local code hive. 
 
 ## Relation to templates
 
