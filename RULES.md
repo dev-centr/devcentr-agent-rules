@@ -11,6 +11,7 @@ These rules apply when **Dev-Centr** (the application) is acting **on behalf of 
 You must read all foundational rules and specifications in a single step using your native file reading tools. All paths below are strictly relative to `$DEVCENTR_RULES_PATH`.
 
 Read these files **simultaneously in parallel tool calls** to assemble your full context:
+
 - `RULES.md` (this file)
 - Relevant specs in the `devcentr` documentation repository as needed for the task.
 
