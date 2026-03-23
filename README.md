@@ -2,7 +2,7 @@
 
 This repository holds **agent-facing rules used by Dev-Centr when it acts on behalf of the user** (template sync, init flows, workspace application, and similar automation).
 
-It is **not** the forkable end-user rules repository. Developers who want personal, portable rules should use [dev-centr/agent-rules](https://github.com/dev-centr/agent-rules) (generic) or fork [AMDphreak/AI-includes](https://github.com/AMDphreak/AI-includes) (example personal fork).
+It is **not** the forkable end-user rules repository. Developers who want personal, portable rules should use [dev-centr/agent-rules](https://github.com/dev-centr/agent-rules) (generic) or fork [AMDphreak/agent-rules](https://github.com/AMDphreak/agent-rules) (example personal fork).
 
 ## Architecture
 

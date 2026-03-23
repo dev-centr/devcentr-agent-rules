@@ -2,7 +2,7 @@
 
 These rules apply when **Dev-Centr** (the application) is acting **on behalf of the user**: applying templates, syncing workspaces, init-repo flows, or other automation driven by the product.
 
-They do **not** replace end-user agent rules. For portable personal rules, see [agent-rules](https://github.com/dev-centr/agent-rules) or a user fork such as [AMDphreak/AI-includes](https://github.com/AMDphreak/AI-includes).
+They do **not** replace end-user agent rules. For portable personal rules, see [agent-rules](https://github.com/dev-centr/agent-rules) or a user fork such as [AMDphreak/agent-rules](https://github.com/AMDphreak/agent-rules).
 
 ## Product behavior
 
