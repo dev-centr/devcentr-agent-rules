@@ -1,6 +1,3 @@
-<!--
-Dev-Centr agent rules (product) — internal / non-downstream.
--->
 <a id="readme-top"></a>
 <div align="center">
   <a href="https://github.com/dev-centr/devcentr-agent-rules/graphs/contributors"><img src="https://img.shields.io/github/contributors/dev-centr/devcentr-agent-rules.svg?style=for-the-badge" alt="Contributors"></a>
@@ -8,9 +5,12 @@ Dev-Centr agent rules (product) — internal / non-downstream.
   <a href="https://github.com/dev-centr/devcentr-agent-rules/stargazers"><img src="https://img.shields.io/github/stars/dev-centr/devcentr-agent-rules.svg?style=for-the-badge" alt="Stargazers"></a>
   <a href="https://github.com/dev-centr/devcentr-agent-rules/issues"><img src="https://img.shields.io/github/issues/dev-centr/devcentr-agent-rules.svg?style=for-the-badge" alt="Issues"></a>
 
-  <h1>Dev-Centr agent rules (product)</h1>
-  <p>Rules for Dev-Centr product automation acting on behalf of the user, featuring 1-step assembly.</p>
-  <p>
+  <h3 align="center">Dev-Centr agent rules (product)</h3>
+
+  <p align="center">
+    Rules for Dev-Centr product automation acting on behalf of the user, featuring 1-step assembly.
+    <br />
+    <br />
     <a href="https://github.com/dev-centr/devcentr-agent-rules/issues">Report Bug</a>
     &middot;
     <a href="https://github.com/dev-centr/devcentr-agent-rules/issues">Request Feature</a>
@@ -69,7 +69,7 @@ flowchart TB
 
 ## Built With
 
-* **Format** — Markdown rules and assembly preamble (`RULES.md`)
+* **Content** — Markdown rules and assembly preamble (`RULES.md`)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,14 +89,20 @@ flowchart TB
 
 Contributions are welcome. Open an issue to discuss larger changes before submitting a pull request.
 
+### Top contributors
+
+<a href="https://github.com/dev-centr/devcentr-agent-rules/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dev-centr/devcentr-agent-rules" alt="contributors" />
+</a>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
 
 DevCentr.org — support@devcentr.org
 
-Project Link: [https://github.com/dev-centr/devcentr-agent-rules](https://github.com/dev-centr/devcentr-agent-rules)
+Project Link: https://github.com/dev-centr/devcentr-agent-rules
 
-Site: [https://devcentr.org](https://devcentr.org)
+Site: https://devcentr.org
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
