@@ -1,16 +1,18 @@
+<!--
+Dev-Centr agent rules (product) — internal / non-downstream.
+-->
 <a id="readme-top"></a>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 <div align="center">
+  <a href="https://github.com/dev-centr/devcentr-agent-rules/graphs/contributors"><img src="https://img.shields.io/github/contributors/dev-centr/devcentr-agent-rules.svg?style=for-the-badge" alt="Contributors"></a>
+  <a href="https://github.com/dev-centr/devcentr-agent-rules/network/members"><img src="https://img.shields.io/github/forks/dev-centr/devcentr-agent-rules.svg?style=for-the-badge" alt="Forks"></a>
+  <a href="https://github.com/dev-centr/devcentr-agent-rules/stargazers"><img src="https://img.shields.io/github/stars/dev-centr/devcentr-agent-rules.svg?style=for-the-badge" alt="Stargazers"></a>
+  <a href="https://github.com/dev-centr/devcentr-agent-rules/issues"><img src="https://img.shields.io/github/issues/dev-centr/devcentr-agent-rules.svg?style=for-the-badge" alt="Issues"></a>
+
   <h1>Dev-Centr agent rules (product)</h1>
   <p>Rules for Dev-Centr product automation acting on behalf of the user, featuring 1-step assembly.</p>
   <p>
     <a href="https://github.com/dev-centr/devcentr-agent-rules/issues">Report Bug</a>
-    ·
+    &middot;
     <a href="https://github.com/dev-centr/devcentr-agent-rules/issues">Request Feature</a>
   </p>
 </div>
@@ -67,7 +69,7 @@ flowchart TB
 
 ## Built With
 
-* Markdown rules and assembly preamble (`RULES.md`)
+* **Format** — Markdown rules and assembly preamble (`RULES.md`)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,18 +95,8 @@ Contributions are welcome. Open an issue to discuss larger changes before submit
 
 DevCentr.org — support@devcentr.org
 
-Project Link: https://github.com/dev-centr/devcentr-agent-rules
+Project Link: [https://github.com/dev-centr/devcentr-agent-rules](https://github.com/dev-centr/devcentr-agent-rules)
 
-Site: https://devcentr.org
+Site: [https://devcentr.org](https://devcentr.org)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/dev-centr/devcentr-agent-rules.svg?style=for-the-badge
-[contributors-url]: https://github.com/dev-centr/devcentr-agent-rules/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dev-centr/devcentr-agent-rules.svg?style=for-the-badge
-[forks-url]: https://github.com/dev-centr/devcentr-agent-rules/network/members
-[stars-shield]: https://img.shields.io/github/stars/dev-centr/devcentr-agent-rules.svg?style=for-the-badge
-[stars-url]: https://github.com/dev-centr/devcentr-agent-rules/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dev-centr/devcentr-agent-rules.svg?style=for-the-badge
-[issues-url]: https://github.com/dev-centr/devcentr-agent-rules/issues
